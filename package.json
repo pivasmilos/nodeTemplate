@@ -1,5 +1,5 @@
 {
-  "name": "principles",
+  "name": "node-template",
   "packageManager": "yarn@3.6.0",
   "scripts": {
     "clean:modules": "npx rimraf --glob **/node_modules",
